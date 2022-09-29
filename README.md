@@ -2,7 +2,7 @@
 
 ## Description
 
-This Text Editor allows you to create notes or code snippets with or without an internet connection. This allows you to reliably retrieve them for later use. It is very simple to use and extremly useful. 
+This Text Editor allows you to create notes or code snippets with or without an internet connection. You can use this application without internet connection by selecting the 'install' button which is located in the upper left hand corner of the website. This allows you to reliably retrieve them for later use. It is very simple to use and extremly useful.
 
 ## Table of Contents (Optional)
 
@@ -14,8 +14,14 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [License](#license)
 
 ## Installation
+In terminal: 
+- npm i
+- npm i webpack-pwa-manifest
+- npm run build 
+- npm run start:dev
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+Browser:
+- select 'install' in the upper left hand corner to download the application to your desktop.
 
 ## Usage
 
@@ -29,7 +35,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-I referenced the mini project and some additional activities from PWA week.
+I referenced the mini project and activity 24 from PWA week.
 
 ## License
 
