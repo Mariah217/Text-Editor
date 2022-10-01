@@ -1,12 +1,10 @@
-# Text-Editor
+# Mariah's Text Editor
 
 ## Description
 
 This Text Editor allows you to create notes or code snippets with or without an internet connection. You can use this application without internet connection by selecting the 'install' button which is located in the upper left hand corner of the website. This allows you to reliably retrieve them for later use. It is very simple to use and extremly useful.
 
 ## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -25,13 +23,10 @@ Browser:
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+<a href="https://mj-texteditor.herokuapp.com/"> Click for live link </a>
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+![jate screenshot](./Assets/client/src/images/Jate.PNG)
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 
 ## Credits
 
