@@ -60,6 +60,6 @@ SOFTWARE.
 
 ## Badges
 
-![badmath](https://img.shields.io/static/v1?label=JavaScript&message=72%&color=blue)<br>
-![badmath](https://img.shields.io/static/v1?label=HTML&message=23%&color=orange)<br>
-![badmath](https://img.shields.io/static/v1?label=CSS&message=4%&color=yellow)<br>
+![badmath](https://img.shields.io/static/v1?label=JavaScript&message=64%&color=blue)<br>
+![badmath](https://img.shields.io/static/v1?label=HTML&message=10%&color=orange)<br>
+![badmath](https://img.shields.io/static/v1?label=CSS&message=26%&color=yellow)<br>
